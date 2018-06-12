@@ -1,0 +1,9 @@
+given list
+
+unlist
+
+dplyr::data_frame
+
+tidytext::unnest_tokens
+
+anti_join(stop_words)
